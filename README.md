@@ -1,7 +1,5 @@
 # pr5-Sepulveda-Gonzalez-Angel-Alejandro-3W-1215
 
-# Sepulveda Gonzalez Angel Alejandro, 3W,1215
-
 # 5. Función que calcula el área de un círculo dado el radio
 
 import math  # Importamos la librería math para usar pi
